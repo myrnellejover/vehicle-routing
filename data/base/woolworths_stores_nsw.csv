@@ -1,0 +1,8 @@
+name,address,latitude,longitude,local_delivery,store_delivery,type
+Woolworths Store - Bondi Junction,"500 Oxford Street, Bondi Junction, NSW, 2022",-33.8915,151.2594,True,False,Store
+Woolworths Store - Chatswood,"1 Anderson Street, Chatswood, NSW, 2067",-33.7953,151.1847,True,False,Store
+Woolworths Store - Parramatta,"159-175 Church Street, Parramatta, NSW, 2150",-33.8130,151.0016,True,False,Store
+Woolworths Store - Burwood,"30-40 Burwood Road, Burwood, NSW, 2134",-33.8841,151.0980,True,False,Store
+Woolworths Store - Wetherill Park,"Cnr. The Horsley Drive & Victoria Street, Wetherill Park, NSW, 2164",-33.8457,150.9166,True,False,Store
+Woolworths Store - Macquarie Centre,"Cnr. Herring Road & Waterloo Road, North Ryde, NSW, 2113",-33.7722,151.0970,True,False,Store
+Woolworths Store - Manly,"28-34 The Corso, Manly, NSW, 2095",-33.8005,151.2881,True,False,Store

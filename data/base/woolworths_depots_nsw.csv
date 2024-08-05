@@ -1,0 +1,8 @@
+name,address,latitude,longitude,local_delivery,store_delivery,type
+Woolworths Distribution Centre - Moorebank,"1 Distribution Drive, Moorebank, NSW, 2170",-33.9491,150.9061,False,True,Distribution Centre
+Woolworths Distribution Centre - Minto,"111 Airds Road, Minto, NSW, 2566",-34.0406,150.8458,False,True,Distribution Centre
+Woolworths Distribution Centre - Yennora,"1-13 McPherson Road, Yennora, NSW, 2161",-33.8414,150.9454,False,True,Distribution Centre
+Woolworths Distribution Centre - Mosman,"17-21 Spit Road, Mosman, NSW, 2088",-33.8215,151.2343,False,True,Distribution Centre
+Woolworths Distribution Centre - Yagoona,"88-96 Rookwood Road, Yagoona, NSW, 2199",-33.9140,151.0705,False,True,Distribution Centre
+Woolworths Distribution Centre - Minto (Allingham Street),"19-21 Allingham Street, Minto, NSW, 2566",-34.0428,150.8453,False,True,Distribution Centre
+Woolworths Distribution Centre - Wetherill Park,"70-80 Horsley Road, Wetherill Park, NSW, 2164",-33.8458,150.9180,False,True,Distribution Centre
